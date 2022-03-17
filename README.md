@@ -12,6 +12,6 @@ In order to run the code, you need Python3 and the following libraries:
 To run the code, execute the following command:
 
 ```shell
-$ python3 openAILunarLanderv2.py
+$ python3 main.py
 ```
 
