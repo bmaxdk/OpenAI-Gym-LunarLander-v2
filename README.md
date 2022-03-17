@@ -10,8 +10,8 @@ In order to run the code, you need Python3 and the following libraries:
 * [OpenAI Gym](https://gym.openai.com/)
 
 To run the code, execute the following command:
-
 ```shell
-$ python3 main.py
+git clone https://github.com/bmaxdk/OpenAI-Gym-LunarLander-v2.git
+cd OpenAI-Gym-LunarLander-v2
+python main.py
 ```
-
